@@ -1,0 +1,24 @@
+# Machine Learning artifacts
+model/spam_model.pkl
+model/vectorizer.pkl
+model/metrics.json
+model/preprocessor_config.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# Frontend build outputs
+frontend/dist/
+frontend/.vite
+
+# Node modules
+node_modules/
+
+# IDE settings
+.vscode/
+.idea/
